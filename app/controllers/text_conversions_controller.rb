@@ -1,4 +1,4 @@
-class TextCoversionsController < ApplicationController
+class TextConversionsController < ApplicationController
   def index
     
   end

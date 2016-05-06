@@ -1,4 +1,4 @@
-class TextCoversion
+class TextConversion
   include Mongoid::Document
   include Mongoid::Timestamps
   
